@@ -24,5 +24,5 @@
 
 ### 🏃‍♂️ Experience
 <p>
-  <a href="https://career.programmers.co.kr/pr/yooncoding" target="_blank"><img src="https://img.shields.io/badge/YOON CHUL JOONG ✨-7B68EE?style=flat-square"/></a>
+  <a href="https://career.programmers.co.kr/pr/yooncoding" target="_blank"><img src="https://img.shields.io/badge/YOON CHUL JOONG ✨-760C0C?style=flat-square"/></a>
 </p>
